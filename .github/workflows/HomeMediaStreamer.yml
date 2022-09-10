@@ -4,7 +4,7 @@ on:
     branches:
     - Master
 env:
-  AZURE_WEBAPP_NAME: MediaStreamer20220910172640
+  AZURE_WEBAPP_NAME: HomeMediaServer
   AZURE_WEBAPP_PACKAGE_PATH: MediaStreamer/published
   CONFIGURATION: Release
   DOTNET_CORE_VERSION: 6.0.x
