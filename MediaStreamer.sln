@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaStreamer", "MediaStreamer\MediaStreamer.csproj", "{A22B042A-B4C2-4FD7-B1FC-3B0740BD49E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaStreamer.Data", "MediaStreamer.Data\MediaStreamer.Data.csproj", "{9916D102-8A67-4808-9D99-F1F505DB9D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22B042A-B4C2-4FD7-B1FC-3B0740BD49E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22B042A-B4C2-4FD7-B1FC-3B0740BD49E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22B042A-B4C2-4FD7-B1FC-3B0740BD49E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22B042A-B4C2-4FD7-B1FC-3B0740BD49E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9916D102-8A67-4808-9D99-F1F505DB9D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9916D102-8A67-4808-9D99-F1F505DB9D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9916D102-8A67-4808-9D99-F1F505DB9D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9916D102-8A67-4808-9D99-F1F505DB9D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D87E1F1-3829-4A35-A11C-34C2338E2577}
+	EndGlobalSection
+EndGlobal
