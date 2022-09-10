@@ -6,3 +6,5 @@
 /MediaStreamer/ClientApp/.env
 /MediaStreamer.Data/obj
 /MediaStreamer.Data/bin/Debug/net6.0
+/MediaStreamer/Properties/ServiceDependencies/HomeMediaStreamer - Zip Deploy
+/MediaStreamer.Data/bin/Release/net6.0
